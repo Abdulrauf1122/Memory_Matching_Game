@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # Memory Matching Game
 
 A fun and interactive memory matching game where players flip cards to find matching pairs. The game gets progressively harder with increasing levels, features a scoring system, and challenges players to beat the timer.
