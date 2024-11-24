@@ -28,7 +28,7 @@ A fun and interactive memory matching game where players flip cards to find matc
    ```
 2. Navigate to the project folder:
    ```bash
-   cd memory-matching-game
+   cd Memory_Matching_Game
    ```
 3. Open `index.html` in your preferred browser.
 
