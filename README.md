@@ -24,7 +24,7 @@ A fun and interactive memory matching game where players flip cards to find matc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/memory-matching-game.git
+   git https://github.com/Abdulrauf1122/Memory_Matching_Game.git
    ```
 2. Navigate to the project folder:
    ```bash
